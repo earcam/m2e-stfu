@@ -20,6 +20,6 @@ There's less long-term effort and more socal-value in you opting for the latter.
 
 ---
 
-Ask not what Open Source build tools and IDEs can do for you ... (this project exists because you googled the warning).  First [reported 2014](https://bugs.eclipse.org/bugs/show_bug.cgi?id=436530).
+Ask not what Open Source build tools and IDEs can do for you ... (this project exists because you googled the warning).  First [reported 2012](https://bugs.eclipse.org/bugs/show_bug.cgi?id=367870).
 
 ---
